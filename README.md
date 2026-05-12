@@ -46,9 +46,9 @@ This project analyzes **PRAN RFL Group's** FMCG sales performance from **2022 to
 ## 🚀 Project Files
 
 ### 🔹 Excel Dataset
-[Download PRAN RFL Sales Dataset]https://github.com/armanhosenBTechEnthusiast/PRAN-RFL-Group-FMCG-Sales-Analysis-Dashboard-/blob/main/PRAN_RFL_FMCG_Sales_Data_2022_2025_Updated-1.xlsx
+https://github.com/armanhosenBTechEnthusiast/PRAN-RFL-Group-FMCG-Sales-Analysis-Dashboard-/blob/main/PRAN_RFL_FMCG_Sales_Data_2022_2025_Updated-1.xlsx
 ### 🔹 Power BI Dashboard
-[Download Power BI Report (.pbix)]https://github.com/armanhosenBTechEnthusiast/PRAN-RFL-Group-FMCG-Sales-Analysis-Dashboard-/blob/main/PRAN%20RFL%20FMCG%20Sales%20Analysis%20Dashboard.pbix
+https://github.com/armanhosenBTechEnthusiast/PRAN-RFL-Group-FMCG-Sales-Analysis-Dashboard-/blob/main/PRAN%20RFL%20FMCG%20Sales%20Analysis%20Dashboard.pbix
 
 ---
 
