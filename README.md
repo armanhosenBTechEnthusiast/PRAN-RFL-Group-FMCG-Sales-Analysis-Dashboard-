@@ -1,5 +1,6 @@
 # PRAN-RFL-Group-FMCG-Sales-Analysis-Power BI Dashboard-
-<img width="1914" height="1009" alt="PRAN RFL FMCG Sales Analysis Dashboard 2022-2025" src="https://github.com/armanhosenBTechEnthusiast/PRAN-RFL-FMCG-Sales-Analysis-Power-BI-Dashboard/raw/main/screenshots/dashboard_overview.png" />
+<img width="1909" height="770" alt="Screenshot 2026-05-12 102016" src="https://github.com/user-attachments/assets/397f54c1-3dff-44c8-8cf6-e3efb59c4364" />
+
 
 # 📊 PRAN RFL FMCG Sales Analysis Dashboard 2022–2025
 
@@ -45,9 +46,9 @@ This project analyzes **PRAN RFL Group's** FMCG sales performance from **2022 to
 ## 🚀 Project Files
 
 ### 🔹 Excel Dataset
-[Download PRAN RFL Sales Dataset]
+[Download PRAN RFL Sales Dataset]https://github.com/armanhosenBTechEnthusiast/PRAN-RFL-Group-FMCG-Sales-Analysis-Dashboard-/blob/main/PRAN_RFL_FMCG_Sales_Data_2022_2025_Updated-1.xlsx
 ### 🔹 Power BI Dashboard
-[Download Power BI Report (.pbix)]
+[Download Power BI Report (.pbix)]https://github.com/armanhosenBTechEnthusiast/PRAN-RFL-Group-FMCG-Sales-Analysis-Dashboard-/blob/main/PRAN%20RFL%20FMCG%20Sales%20Analysis%20Dashboard.pbix
 
 ---
 
@@ -67,5 +68,7 @@ This project analyzes **PRAN RFL Group's** FMCG sales performance from **2022 to
 
 ## 👨‍💻 Author
 **Arman Hosen**
+
 BBA in Finance and Banking / Data Enthusiast
+
 Jashore University of Science and Technology
